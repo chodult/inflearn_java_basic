@@ -2,7 +2,7 @@ package access;
 
 public class Speaker {
 
-    int voulme;
+    private int voulme;
 
     Speaker (int voulme){
         this.voulme = voulme;
